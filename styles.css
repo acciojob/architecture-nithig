@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+}
+table,td,th{
+	border:solid 1px black;
+}
+table{
+	width:100%;
+}
